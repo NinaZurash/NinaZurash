@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=6c09b952qkavbxypqyrokbafxgf5ahymj2zh8km2xn19sbov&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="600" height="500">
+  <img src="ezgif.com-crop.gif" width="400">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nino 🇬🇪</h1>
