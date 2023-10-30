@@ -7,7 +7,7 @@
     <a style="font-weight: bold; font-size:26px" href="https://spacerr.vercel.app/">Portfolio</a>
 </p>
 
-🛠️ 5 years of hands-on experience in crafting innovative software solutions. Proficient in a wide range of programming languages and technologies for both web and immersive experiences.
+🛠️ 4 years of hands-on experience in crafting innovative software solutions. Proficient in a wide range of programming languages and technologies for both web and immersive experiences.
 
 👨‍💻 At the heart of it, I'm a problem solver. My expertise spans the realms of programming, web development, e-commerce, back-end architecture, and the exciting realms of VR, AR, and video game development.
 
