@@ -19,7 +19,6 @@
 
 <div>
 <a href="https://www.cern.ch" target="_blank"> <img display="inline-block" height="100px" width="100px" src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></a>
-<a href="https://www.epam.com" target="_blank"><img display="inline-block" height="100px" width="100px" src="https://logos-download.com/wp-content/uploads/2019/06/Epam_Systems_Logo.png"/></a>
 <a href="https://www.lookers.co.uk/" target="_blank"><img display="inline-block" height="100px" width="100px" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/t613vc5mxzrq3hgruycy"/></a>
 <a href="https://basic-fit.com/" target="_blank"><img display="inline-block" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcP-Y-DREZNTMk8Z7s1daEcLu4sMZUhX9HMFsDf4IKQ&s"/></a>
 <a href="https://www.mizunousa.com/" target="_blank"><img display="inline-block" height="100px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MIZUNO_logo.svg/2560px-MIZUNO_logo.svg.png"/></a>
