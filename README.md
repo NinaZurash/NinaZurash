@@ -23,7 +23,6 @@
 <a href="https://basic-fit.com/" target="_blank"><img display="inline-block" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcP-Y-DREZNTMk8Z7s1daEcLu4sMZUhX9HMFsDf4IKQ&s"/></a>
 <a href="https://www.mizunousa.com/" target="_blank"><img display="inline-block" height="100px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MIZUNO_logo.svg/2560px-MIZUNO_logo.svg.png"/></a>
 <a href="https://sohohouse.com" target="_blank"><img display="inline-block" height="100px"  src="https://dq06ugkuram52.cloudfront.net/files/5404295/20704059-large.png"/></a>
-<a href="https://www.maxinai.com/" target="_blank"><img display="inline-block" height="100px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8goQzdyXp6HDK1O0hwbkGKYYgw_Urpb-kOQ570zJqg&s"/></a>
 </div>
 
 ## Skills
