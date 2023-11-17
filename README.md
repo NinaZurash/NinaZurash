@@ -13,7 +13,7 @@
 
 🔬 Notably, I've contributed to pioneering data visualization applications pivotal to CERN's experiments. My work was showcased at ICHEP2020, highlighting the fusion of technology and science.
 
-🚀 Currently working as a Fullstack Developer at Nuclear Enginnering Team of Georgian Technical University in a collaboration with CERN. 
+🚀 Currently working as a Fullstack Sowftware Developer at CERN. 
 
 ## Companies worked at
 
