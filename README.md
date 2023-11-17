@@ -3,9 +3,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nino 🇬🇪</h1>
-<p align="center">
-    <a style="font-weight: bold; font-size:26px" href="">Portfolio</a>
-</p>
 
 💻 4 years of hands-on experience in crafting innovative software solutions. Proficient in a wide range of programming languages and technologies for both web and immersive experiences.
 
