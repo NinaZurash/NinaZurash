@@ -7,13 +7,13 @@
     <a style="font-weight: bold; font-size:26px" href="">Portfolio</a>
 </p>
 
-🛠️ 4 years of hands-on experience in crafting innovative software solutions. Proficient in a wide range of programming languages and technologies for both web and immersive experiences.
+💻 4 years of hands-on experience in crafting innovative software solutions. Proficient in a wide range of programming languages and technologies for both web and immersive experiences.
 
-👨‍💻 At the heart of it, I'm a problem solver. My expertise spans the realms of programming, web development, e-commerce, back-end architecture, and the exciting realms of VR, AR, and video game development.
+💡 My capabilities span programming, web development, and the dynamic fields of VR, AR, and video game development.
 
-🔬 Notably, I've contributed to pioneering data visualization applications pivotal to CERN's experiments. My work was showcased at ICHEP2020, highlighting the fusion of technology and science.
+🌐 Actively involved in advancing data visualization applications critical to CERN's experiments. 
 
-🚀 Currently working as a Fullstack Sowftware Developer at CERN. 
+💼 Currently serving as a Fullstack Software Developer at CERN. 
 
 ## Companies worked at
 
